@@ -1059,8 +1059,10 @@ elif maze is None:
 st.markdown(
     """
     <div class="footer">
-      🌿 WhimsyGrid • Tabular Q-Learning • Classic Control & Environments<br>
+      🌿 Grid Explorer • Tabular Q-Learning • Classic Control & Environments<br>
       <small>From empty Q-table → exploration → learning → shortest-path discovery</small>
+      <small>Created by Vempali Hrishita</small>
+
     </div>
     """,
     unsafe_allow_html=True,
