@@ -6,6 +6,12 @@ The project allows users to experiment with different maze difficulties, create 
 
 ---
 
+## 🚀 Live Site
+
+🔗 Visit here → **[GridExplorer](https://grid-explorer.streamlit.app/)**
+
+---
+
 ## ✨ Features
 
 - 🧠 Tabular Q-Learning implemented from scratch
